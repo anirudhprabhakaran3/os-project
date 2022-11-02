@@ -1,0 +1,1 @@
+cmd_/home/anirudh/Desktop/Projects/os-project/timer/Module.symvers := sed 's/\.ko$$/\.o/' /home/anirudh/Desktop/Projects/os-project/timer/modules.order | scripts/mod/modpost -m -a  -o /home/anirudh/Desktop/Projects/os-project/timer/Module.symvers -e -i Module.symvers   -T -

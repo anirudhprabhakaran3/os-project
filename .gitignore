@@ -1,0 +1,10 @@
+# Private keys and signing files
+MOK.der
+MOK.pem
+MOK.priv
+
+# VS Code Files
+.vscode
+
+# Kernel Image
+v6.0.3

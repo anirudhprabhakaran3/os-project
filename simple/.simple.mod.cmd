@@ -1,0 +1,1 @@
+cmd_/home/anirudh/Desktop/Projects/os-project/simple/simple.mod := { echo  /home/anirudh/Desktop/Projects/os-project/simple/simple.o;  echo; } > /home/anirudh/Desktop/Projects/os-project/simple/simple.mod

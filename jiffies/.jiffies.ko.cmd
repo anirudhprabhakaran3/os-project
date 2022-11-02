@@ -1,0 +1,1 @@
+cmd_/home/anirudh/Desktop/Projects/os-project/jiffies/jiffies.ko := ld -r -m elf_x86_64 --build-id=sha1  -T scripts/module.lds -o /home/anirudh/Desktop/Projects/os-project/jiffies/jiffies.ko /home/anirudh/Desktop/Projects/os-project/jiffies/jiffies.o /home/anirudh/Desktop/Projects/os-project/jiffies/jiffies.mod.o;  true

@@ -1,0 +1,1 @@
+cmd_/home/anirudh/Desktop/Projects/os-project/seconds/seconds.mod := { echo  /home/anirudh/Desktop/Projects/os-project/seconds/seconds.o;  echo; } > /home/anirudh/Desktop/Projects/os-project/seconds/seconds.mod
