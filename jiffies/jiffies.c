@@ -43,7 +43,7 @@ ssize_t proc_read(struct file *file, char __user *usr_buf, size_t count, loff_t 
 module_init(proc_init);
 module_exit(proc_exit);
 
-MODULE_LICENSE("MIT");
+MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("Jiffies Module");
 MODULE_AUTHOR("Anirudh Prabhakaran");
 
